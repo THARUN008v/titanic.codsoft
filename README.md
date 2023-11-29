@@ -1,7 +1,5 @@
 # titanic.codsoft
 titanic.codsoft.task1
-# Zic-labs-task1
-1st task
 # README: Titanic Survival Prediction
 
 ## Author: THARUN V
